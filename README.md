@@ -1,11 +1,11 @@
 # Xiaoxiang's Work and Knowledge Base
 
-From 2021, I am going to use github to track personal task/goal and write as my notebooks. 
+From 2021, I am going to use github issues to track personal task/goal and record my understandings. 
 
-- Repo [Work-KB](https://github.com/hit-lacus/Work-KB/issues) is aim to public-visable task management and knowledge base.
-- Repo [PrivateNote](https://github.com/hit-lacus/PrivateNote/issues) is aim to private affairs.
+- Repo [Work-KB](https://github.com/hit-lacus/Work-KB/issues) aim to public-visable task management and knowledge base.
+- Repo [PrivateNote](https://github.com/hit-lacus/PrivateNote/issues)  aim to private affairs.
 
-To get a bird's eye view into how everything is going on, I am going to use Zenhub's workspace to combine multi repos ( refer to [multi-repo workspace](https://help.zenhub.com/support/solutions/articles/43000010346-creating-a-multi-repo-workspace) ) .
+To get a bird's eye view into how everything is going on, I am going to use Zenhub's workspace to merge multi repos ( refer to [multi-repo workspace](https://help.zenhub.com/support/solutions/articles/43000010346-creating-a-multi-repo-workspace) ) .
 
 ### My practice
 
@@ -30,7 +30,20 @@ N/A
 Milestone is optional, I am not good at estimate, to be honest.
 
 
-> For detail, please check https://github.com/hit-lacus/Work-KB/issues/17 .
+----
+
+For detail, please check https://github.com/hit-lacus/Work-KB/issues/17 .
+
+### Issue Templates
+
+#### Knowledge Base
+A piece of technical article or some kind of summary.
+
+#### Future Plan
+A plan for what I am going to do.
+
+#### Reading Note
+When a read a book, I should make a note for something I should remenber.
 
 
 ### My current project
@@ -38,4 +51,9 @@ Milestone is optional, I am not good at estimate, to be honest.
 - Have a life companion
 - Be a senior software engineer
 - Have a solid understanding of my life
+
+### Workspace
+
+- [Zenhub Workspace](https://app.zenhub.com/workspaces/-601f5761149d660018b9df6b)
+
 
