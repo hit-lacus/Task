@@ -1,11 +1,14 @@
 # Xiaoxiang's Work and Knowledge Base
 
+### Background 
 From 2021, I am going to use github issues to track personal task/goal and record my understandings. 
 
 - Repo [Work-KB](https://github.com/hit-lacus/Work-KB/issues) aim to public-visable task management and knowledge base.
 - Repo [PrivateNote](https://github.com/hit-lacus/PrivateNote/issues)  aim to private affairs.
 
 To get a bird's eye view into how everything is going on, I am going to use Zenhub's workspace to merge multi repos ( refer to [multi-repo workspace](https://help.zenhub.com/support/solutions/articles/43000010346-creating-a-multi-repo-workspace) ) .
+
+</br></br>
 
 ### My practice
 
@@ -29,10 +32,10 @@ N/A
 
 Milestone is optional, I am not good at estimate, to be honest.
 
-
-----
-
 For detail, please check https://github.com/hit-lacus/Work-KB/issues/17 .
+
+
+</br></br>
 
 ### Issue Templates
 
@@ -45,6 +48,7 @@ A plan for what I am going to do.
 #### Reading Note
 When a read a book, I should make a note for something I should remenber.
 
+</br></br>
 
 ### My current project
 
