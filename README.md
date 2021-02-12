@@ -52,8 +52,3 @@ When a read a book, I should make a note for something I should remenber.
 - Be a senior software engineer
 - Have a solid understanding of my life
 
-### Workspace
-
-- [Zenhub Workspace](https://app.zenhub.com/workspaces/-601f5761149d660018b9df6b)
-
-
